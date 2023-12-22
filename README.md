@@ -9,7 +9,7 @@ Convert and clean-up output data from [the Smart TOC browser extension](https://
 
 This product requires the following components to work:
 
-* [the Smart TOC browser extension](https://github.com/FallenMax/smart-toc)  
+* [The Smart TOC browser extension](https://github.com/FallenMax/smart-toc)  
   For exporting the ToC data in the JSON format
 * [kolypto/j2cli: Jinja2 Command-Line Tool, reworked](https://github.com/kolypto/j2cli)  
   For converting the ToC data from the JSON format to the Markdown markup

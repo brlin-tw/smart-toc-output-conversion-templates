@@ -1,0 +1,119 @@
+{ "headings": [
+  {
+    "text": "Alternative user interfaces[]",
+    "anchor": "Alternative_user_interfaces"
+  },
+  {
+    "text": "Comparison to graphical user interfaces[]",
+    "anchor": "Comparison_to_graphical_user_interfaces"
+  },
+  {
+    "text": "Types[]",
+    "anchor": "Types",
+    "children": [
+      {
+        "text": "Operating system command-line interfaces[]",
+        "anchor": "Operating_system_command-line_interfaces"
+      },
+      {
+        "text": "Application command-line interfaces[]",
+        "anchor": "Application_command-line_interfaces"
+      }
+    ]
+  },
+  {
+    "text": "History[]",
+    "anchor": "History"
+  },
+  {
+    "text": "Usage[]",
+    "anchor": "Usage"
+  },
+  {
+    "text": "Anatomy of a shell CLI[]",
+    "anchor": "Anatomy_of_a_shell_CLI",
+    "children": [
+      {
+        "text": "CLI and resource protection[]",
+        "anchor": "CLI_and_resource_protection"
+      },
+      {
+        "text": "Command prompt[]",
+        "anchor": "Command_prompt"
+      },
+      {
+        "text": "Arguments[]",
+        "anchor": "Arguments",
+        "children": [
+          {
+            "text": "Abbreviating commands[]",
+            "anchor": "Abbreviating_commands"
+          },
+          {
+            "text": "Option conventions in DOS, Windows, OS/2[]",
+            "anchor": "Option_conventions_in_DOS.2C_Windows.2C_OS.2F2"
+          },
+          {
+            "text": "Option conventions in Unix-like systems[]",
+            "anchor": "Option_conventions_in_Unix-like_systems"
+          },
+          {
+            "text": "Option conventions in other systems[]",
+            "anchor": "Option_conventions_in_other_systems"
+          }
+        ]
+      },
+      {
+        "text": "Built-in usage help[]",
+        "anchor": "Built-in_usage_help"
+      },
+      {
+        "text": "Command description syntax[]",
+        "anchor": "Command_description_syntax"
+      },
+      {
+        "text": "The space character[]",
+        "anchor": "The_space_character"
+      }
+    ]
+  },
+  {
+    "text": "Command-line interpreter[]",
+    "anchor": "Command-line_interpreter",
+    "children": [
+      {
+        "text": "Early history[]",
+        "anchor": "Early_history"
+      },
+      {
+        "text": "Modern usage as an operating system shell[]",
+        "anchor": "Modern_usage_as_an_operating_system_shell"
+      }
+    ]
+  },
+  {
+    "text": "Scripting[]",
+    "anchor": "Scripting"
+  },
+  {
+    "text": "Other command-line interfaces[]",
+    "anchor": "Other_command-line_interfaces"
+  },
+  {
+    "text": "See also[]",
+    "anchor": "See_also"
+  },
+  {
+    "text": "Notes[]",
+    "anchor": "Notes"
+  },
+  {
+    "text": "References[]",
+    "anchor": "References"
+  },
+  {
+    "text": "External links[]",
+    "anchor": "External_links"
+  }
+]
+}

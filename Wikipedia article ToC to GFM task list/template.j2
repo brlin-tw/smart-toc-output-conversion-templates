@@ -1,0 +1,10 @@
+{% set url = "https://en.wikipedia.org/wiki/Command-line_interface" -%}
+{% for heading in headings -%}
+* [ ] [{{ heading.text | replace("[]", "") }}]({{ url }}#{{ heading.anchor }})
+{% if heading.children | default(false) %}{% for child in heading.children +%}    + [ ] [{{ child.text | replace("[]", "") }}]({{ url }}#{{ child.anchor }})
+{% if child.children | default(false) %}{% for child_child in child.children +%}        - [ ] [{{ child_child.text | replace("[]", "") }}]({{ url }}#{{ child_child.anchor }})
+{% endfor -%}
+{% endif -%}
+{% endfor -%}
+{% endif -%}
+{% endfor -%}

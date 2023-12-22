@@ -64,3 +64,15 @@ indent_size = 2
 [/LICENSES/*]
 indent_size = unset
 indent_style = unset
+
+[*.j2]
+# Keep the space characters in the Jinja2 templates
+trim_trailing_whitespace = false
+insert_final_newline = unset
+
+[*.sample]
+# Don't care most settings from the sample files
+indent_size = unset
+
+[/.reuse/dep5]
+indent_size = 1

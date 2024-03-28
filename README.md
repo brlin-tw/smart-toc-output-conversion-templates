@@ -11,7 +11,7 @@ This product requires the following components to work:
 
 * [The Smart TOC browser extension](https://github.com/FallenMax/smart-toc)  
   For exporting the ToC data in the JSON format
-* [kolypto/j2cli: Jinja2 Command-Line Tool, reworked](https://github.com/kolypto/j2cli)  
+* [kpfleming/jinjanator: Jinja2 Command-Line Tool, reworked, again](https://github.com/kpfleming/jinjanator)  
   For converting the ToC data from the JSON format to the Markdown markup
 
 ## Reference
